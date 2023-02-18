@@ -1,2 +1,0 @@
-# numeroprimo
-Codigo Numeros primos
